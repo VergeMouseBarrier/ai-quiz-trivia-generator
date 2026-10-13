@@ -1,0 +1,1 @@
+"""Service layer: sources, dedupe, LLM backends."""
